@@ -25,6 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
+                        Intan Core.framework contain abstractions such as protocol and base class
                    DESC
 
   spec.homepage     = "https://github.com/intan1907/Intan-iOS-Core"
